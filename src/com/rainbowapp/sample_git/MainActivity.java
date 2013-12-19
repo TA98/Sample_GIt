@@ -8,6 +8,7 @@ public class MainActivity extends Activity {
 
 	
 	//ここは練習ように追加したコメントです。
+	//テスト
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
